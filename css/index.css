@@ -1330,8 +1330,8 @@
 #widgetu2002.frm-sub-st #u2004-4 p
 {
 	color: #999999;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -1359,8 +1359,8 @@
 #widgetu2002.frm-subm-err-st #u2005-4 p
 {
 	color: #D7244C;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -1710,10 +1710,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #2F2F2B;
-	left: -101px;
-	top: -1292px;
-	margin-bottom: -1292px;
 	position: relative;
+	left: -100px;
+	top: -1299px;
+	margin-bottom: -1292px;
 }
 
 body
